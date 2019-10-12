@@ -235,6 +235,7 @@ clean_data_join <- function(x = cherry_q,
 }
 
 combo_data_wide<-clean_data_join()
+head(combo_data_wide)
 
 ```
 
